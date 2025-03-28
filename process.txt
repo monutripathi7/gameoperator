@@ -1,0 +1,9 @@
+
+Table: players
+
+id 
+fullName
+gender
+age
+status
+
